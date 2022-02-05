@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Courses on Punched Potatoes</title>
-    <link>https://www.punchedpotatoes.com/courses/</link>
+    <link>https://paposeco.github.io/punchedpotatoes/courses/</link>
     <description>Recent content in Courses on Punched Potatoes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 11 Jun 2013 16:04:00 +0200</lastBuildDate><atom:link href="https://www.punchedpotatoes.com/courses/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 11 Jun 2013 16:04:00 +0200</lastBuildDate><atom:link href="https://paposeco.github.io/punchedpotatoes/courses/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>breakfast</title>
-      <link>https://www.punchedpotatoes.com/courses/breakfast/</link>
+      <link>https://paposeco.github.io/punchedpotatoes/courses/breakfast/</link>
       <pubDate>Tue, 11 Jun 2013 16:04:00 +0200</pubDate>
       
-      <guid>https://www.punchedpotatoes.com/courses/breakfast/</guid>
+      <guid>https://paposeco.github.io/punchedpotatoes/courses/breakfast/</guid>
       <description></description>
     </item>
     
     <item>
       <title>dessert</title>
-      <link>https://www.punchedpotatoes.com/courses/dessert/</link>
+      <link>https://paposeco.github.io/punchedpotatoes/courses/dessert/</link>
       <pubDate>Tue, 11 Jun 2013 16:04:00 +0200</pubDate>
       
-      <guid>https://www.punchedpotatoes.com/courses/dessert/</guid>
+      <guid>https://paposeco.github.io/punchedpotatoes/courses/dessert/</guid>
       <description></description>
     </item>
     
     <item>
       <title>main course</title>
-      <link>https://www.punchedpotatoes.com/courses/main-course/</link>
+      <link>https://paposeco.github.io/punchedpotatoes/courses/main-course/</link>
       <pubDate>Sun, 17 Mar 2013 17:02:00 +0100</pubDate>
       
-      <guid>https://www.punchedpotatoes.com/courses/main-course/</guid>
+      <guid>https://paposeco.github.io/punchedpotatoes/courses/main-course/</guid>
       <description></description>
     </item>
     
     <item>
       <title>side dish</title>
-      <link>https://www.punchedpotatoes.com/courses/side-dish/</link>
+      <link>https://paposeco.github.io/punchedpotatoes/courses/side-dish/</link>
       <pubDate>Tue, 07 Aug 2012 22:52:00 +0200</pubDate>
       
-      <guid>https://www.punchedpotatoes.com/courses/side-dish/</guid>
+      <guid>https://paposeco.github.io/punchedpotatoes/courses/side-dish/</guid>
       <description></description>
     </item>
     
     <item>
       <title>appetizer</title>
-      <link>https://www.punchedpotatoes.com/courses/appetizer/</link>
+      <link>https://paposeco.github.io/punchedpotatoes/courses/appetizer/</link>
       <pubDate>Fri, 27 Jul 2012 11:34:00 +0200</pubDate>
       
-      <guid>https://www.punchedpotatoes.com/courses/appetizer/</guid>
+      <guid>https://paposeco.github.io/punchedpotatoes/courses/appetizer/</guid>
       <description></description>
     </item>
     
